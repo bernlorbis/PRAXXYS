@@ -7,6 +7,7 @@
 - run `composer install`
 - run `cp .env.example .env`
 - run `php artisan key:generate`
+- run `php artisan storage:link`
 - run `npm install`
 - Create database named `praxxys_crud`
 - After creating database run `php artisan migrate --seed`
